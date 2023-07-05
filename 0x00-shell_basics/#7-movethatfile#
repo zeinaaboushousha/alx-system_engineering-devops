@@ -1,3 +1,0 @@
-#!/bin/bash
-mkdir /tmp/betty
-mv betty my_first_directory
