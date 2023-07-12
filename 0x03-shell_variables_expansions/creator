@@ -1,4 +1,5 @@
-#!/bin/bash                                                                                                                                         echo "Write file name"
+#!/bin/bash
+echo "Write file name"
 read var
 touch ${var}
 echo "#!/bin/bash" > ${var}
